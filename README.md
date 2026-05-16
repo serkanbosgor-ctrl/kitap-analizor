@@ -1,4 +1,4 @@
-# POLEMOS - Kitap Analizîr ve DÅzenleyici  
+# POLEMOS - Kitap Analizor ve Duzenleyici  
   
-## ?? Uygulamay’ Indir  
-[POLEMOS Windows Uygulamas’n’ Indirmek Iáin T’kla](https://github.com/serkanbosgor-ctrl/kitap-analizor/blob/main/kitap_sistemi.exe?raw=true) 
+## RELEASES  
+[POLEMOS Windows Uygulamasini Indir](https://github.com/serkanbosgor-ctrl/kitap-analizor/blob/main/kitap_sistemi.exe?raw=true) 
